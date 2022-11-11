@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hilmanXcode
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning React JS 
 - 💞️ I’m looking to collaborate on Google Indonesia
 
 <!---
