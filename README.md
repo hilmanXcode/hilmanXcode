@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hilmanXcode
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning CodeIgniter 4
-- 💻 I'm currently build Home Town City Roleplay (SA:MP Server)
+- 🌱 I’m currently learning Laravel
+- 💻 I'm currently build Fake World Roleplay (SA:MP Server)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilmanXcode&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilmanXcode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
