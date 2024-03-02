@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilmanxcode&label=Profile%20views&color=0e75b6&style=flat" alt="hilmanxcode" /> </p>
 
-- 🔭 I’m currently working on [PPDB-APP](https://github.com/hilmanXcode/PPDB-APP)
+- 🔭 I’m currently working on [ice-cbt](https://github.com/hilmanXcode/ice-cbt)
 
 - 🌱 I’m currently learning **Laravel, TailwindCSS, React JS**
 
