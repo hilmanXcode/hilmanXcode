@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilmanxcode&label=Profile%20views&color=0e75b6&style=flat" alt="hilmanxcode" /> </p>
 
 
-- 🌱 I’m currently learning **Laravel, TailwindCSS, React JS**
+- 🌱 I’m currently learning **Golang, Echo Framework, Gorm**
 
 - 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **hilmanxcode@gmail.com**
 
-- ⚡ Fun fact **Im bad at coding btw.**
+- ⚡ Fun fact **Im eighteen but my voice is not like eighteen.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
