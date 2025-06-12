@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilmanxcode&label=Profile%20views&color=0e75b6&style=flat" alt="hilmanxcode" /> </p>
 
+- My Discord Only Hilman#1533(old username) Hilman(hilmanxcode)
 
 - 🌱 I’m currently learning **Golang, Echo Framework, Gorm**
 
